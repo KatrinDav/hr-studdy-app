@@ -4,6 +4,6 @@ export const users = [
     { name: 'Fryderyk Kowalski', attendance: '41%', average: '3.5' },
     { name: 'Kamimierz Wielski', attendance: '50%', average: '4.2' },
     { name: 'Anna Jupiter', attendance: '30%', average: '3.9' },
-    { name: 'Henryk Absolut', attendance: '55%', average: '4.0' },
+    { name: 'Henryk Absolut', attendance: '55%', average: '2.9' },
     { name: 'Olga Wenus', attendance: '44%', average: '4.7' },
 ]
